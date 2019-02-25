@@ -1,0 +1,22 @@
+{
+  "name": "FFRouterKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFRouterKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jialiu8/FFRouterKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jialiu8": "972626339@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jialiu8/FFRouterKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFRouterKit/Classes/**/*"
+}

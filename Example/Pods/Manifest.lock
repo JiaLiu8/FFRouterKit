@@ -1,0 +1,16 @@
+PODS:
+  - FFRouterKit (0.1.0)
+
+DEPENDENCIES:
+  - FFRouterKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFRouterKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFRouterKit: 9d6e518e74fb1dcc0755e798880fbd50ea619251
+
+PODFILE CHECKSUM: 8074227710f32f570f6c3fc472aded95bcc02ec8
+
+COCOAPODS: 1.5.3
